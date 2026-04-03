@@ -1,0 +1,1554 @@
+===== THREADS: 1 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->   18.236104347826085     
+ -- WALLTIME ->    1.0967254638671875E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   175.49389121338913     
+ -- WALLTIME ->    5.6982040405273438E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   1997.2876190476190     
+ -- WALLTIME ->    1.0013580322265625E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   5683.3387533875339     
+ -- WALLTIME ->    3.5190582275390625E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   77.672296296296295     
+ -- WALLTIME ->    1.2874603271484375E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   228.29871543653388     
+ -- WALLTIME ->    1.0950565338134766E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   4723.3153153153153     
+ -- WALLTIME ->    1.0585784912109375E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   4728.4058062508739     
+ -- WALLTIME ->    5.2871942520141602E-002  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   167.77216000000001     
+ -- WALLTIME ->    1.1920928955078125E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   401.29200153080751     
+ -- WALLTIME ->    2.4919509887695312E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   4750.0611551528882     
+ -- WALLTIME ->    4.2104721069335938E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   5360.1329073482430     
+ -- WALLTIME ->   0.37312507629394531       seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   233.01688888888890     
+ -- WALLTIME ->    1.2874603271484375E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   642.68482702260962     
+ -- WALLTIME ->    3.5009384155273438E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   4221.5092820398122     
+ -- WALLTIME ->    1.0659694671630859E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   4433.8730584858595     
+ -- WALLTIME ->    1.5223710536956787       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   305.04029090909091     
+ -- WALLTIME ->    1.3113021850585938E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   810.84606833889131     
+ -- WALLTIME ->    4.9331188201904297E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3724.5456765456765     
+ -- WALLTIME ->    2.1479129791259766E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3892.6760997358665     
+ -- WALLTIME ->    4.1102828979492188       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   426.53938983050847     
+ -- WALLTIME ->    1.4066696166992188E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   886.68254527517433     
+ -- WALLTIME ->    1.0150194168090820E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3208.0169966856465     
+ -- WALLTIME ->    5.6109428405761719E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3271.1412852506160     
+ -- WALLTIME ->    16.507999897003174       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   532.61003174603172     
+ -- WALLTIME ->    1.5020370483398438E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   894.35556266325500     
+ -- WALLTIME ->    1.7889976501464844E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3192.0121765601216     
+ -- WALLTIME ->    1.0025024414062500E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3182.9858251157425     
+ -- WALLTIME ->    40.213814020156860       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   710.89898305084739     
+ -- WALLTIME ->    1.4066696166992188E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   896.31839435150914     
+ -- WALLTIME ->    2.7891874313354492E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3097.8964783739070     
+ -- WALLTIME ->    1.6139984130859375E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3021.2533296206925     
+ -- WALLTIME ->    82.747116088867188       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   751.21862686567158     
+ -- WALLTIME ->    1.5974044799804688E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   935.26014109893640     
+ -- WALLTIME ->    3.8491964340209961E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3104.2730207026993     
+ -- WALLTIME ->    2.3193836212158203E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3017.2735352106456     
+ -- WALLTIME ->    143.17561697959900       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   734.00319999999999     
+ -- WALLTIME ->    1.9073486328125000E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   951.77204251279318     
+ -- WALLTIME ->    5.1482915878295898E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3092.7488958278468     
+ -- WALLTIME ->    3.1687021255493164E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   3002.2045136459337     
+ -- WALLTIME ->    228.49875712394714       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   1065.2200634920634     
+ -- WALLTIME ->    1.5020370483398438E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   954.96686517677358     
+ -- WALLTIME ->    6.7018032073974609E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3055.4722152662371     
+ -- WALLTIME ->    4.1892051696777344E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   2994.9420635830788     
+ -- WALLTIME ->    341.90978598594666       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   1126.8279402985074     
+ -- WALLTIME ->    1.5974044799804688E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   954.09685355140925     
+ -- WALLTIME ->    8.4897041320800781E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   3072.7779747476575     
+ -- WALLTIME ->    5.2721023559570312E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   2987.7502184619084     
+ -- WALLTIME ->    487.99260091781616       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   902.00086021505376     
+ -- WALLTIME ->    2.2172927856445312E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   956.18029782150768     
+ -- WALLTIME ->   0.10458278656005859       seconds
+  
+  mvv result
+ --MFLOPS-- ->   3065.7427711019500     
+ -- WALLTIME ->    6.5237045288085938E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   2984.9721353583050     
+ -- WALLTIME ->    670.02300500869751       seconds
+  
+===== THREADS: 2 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->   1.9972876190476190     
+ -- WALLTIME ->    1.0013580322265625E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   301.74848920863309     
+ -- WALLTIME ->    3.3140182495117188E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   2796.2026666666666     
+ -- WALLTIME ->    7.1525573730468750E-006  seconds
+  
+  mmm result
+ --MFLOPS-- ->   9436.0044994375712     
+ -- WALLTIME ->    2.1195411682128906E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   18.477110132158590     
+ -- WALLTIME ->    5.4121017456054688E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   373.15871886120999     
+ -- WALLTIME ->    6.6995620727539062E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   7825.1940298507461     
+ -- WALLTIME ->    6.3896179199218750E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   8569.5278724430173     
+ -- WALLTIME ->    2.9173135757446289E-002  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   20.213513253012049     
+ -- WALLTIME ->    9.8943710327148438E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   989.22264150943397     
+ -- WALLTIME ->    1.0108947753906250E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8858.0865892291458     
+ -- WALLTIME ->    2.2578239440917969E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   9068.4810962683332     
+ -- WALLTIME ->   0.22054409980773926       seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   29.127111111111113     
+ -- WALLTIME ->    1.0299682617187500E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1359.4330164217804     
+ -- WALLTIME ->    1.6551017761230469E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   7522.6656038262254     
+ -- WALLTIME ->    5.9819221496582031E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   7698.5195506116597     
+ -- WALLTIME ->   0.87679195404052734       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   72.944417391304341     
+ -- WALLTIME ->    5.4836273193359375E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1560.0907569276546     
+ -- WALLTIME ->    2.5639533996582031E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5789.2394755003452     
+ -- WALLTIME ->    1.3818740844726562E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6727.8621417560789     
+ -- WALLTIME ->    2.3781700134277344       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   60.061632458233895     
+ -- WALLTIME ->    9.9897384643554688E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1440.9564453945106     
+ -- WALLTIME ->    6.2458515167236328E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5577.9439970446983     
+ -- WALLTIME ->    3.2269954681396484E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6204.3563161982811     
+ -- WALLTIME ->    8.7035620212554932       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   140.39511297071130     
+ -- WALLTIME ->    5.6982040405273438E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1498.9694884967614     
+ -- WALLTIME ->    1.0673999786376953E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5486.1119149805845     
+ -- WALLTIME ->    5.8329105377197266E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6213.9545155321111     
+ -- WALLTIME ->    20.598798990249634       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   192.39926605504587     
+ -- WALLTIME ->    5.1975250244140625E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1608.5661251476522     
+ -- WALLTIME ->    1.5541791915893555E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5743.2616732849510     
+ -- WALLTIME ->    8.7058544158935547E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6195.6476204144819     
+ -- WALLTIME ->    40.350906848907471       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   109.17927982646421     
+ -- WALLTIME ->    1.0991096496582031E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1604.9120882624918     
+ -- WALLTIME ->    2.2431135177612305E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5575.3694821379122     
+ -- WALLTIME ->    1.2913942337036133E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6187.9693671736022     
+ -- WALLTIME ->    69.812885999679565       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   121.57402898550725     
+ -- WALLTIME ->    1.1515617370605469E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1566.6971283951182     
+ -- WALLTIME ->    3.1275987625122070E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5745.1400777122408     
+ -- WALLTIME ->    1.7057895660400391E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6330.7126151138818     
+ -- WALLTIME ->    108.36062884330750       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   133.41722465208747     
+ -- WALLTIME ->    1.1992454528808594E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1560.0998239017106     
+ -- WALLTIME ->    4.1023015975952148E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5647.4681477741306     
+ -- WALLTIME ->    2.2665023803710938E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6152.3487012090300     
+ -- WALLTIME ->    166.44050097465515       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   178.06007547169810     
+ -- WALLTIME ->    1.0108947753906250E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1595.3390778420057     
+ -- WALLTIME ->    5.0772905349731445E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5880.6287420485523     
+ -- WALLTIME ->    2.7548074722290039E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6372.6828847878332     
+ -- WALLTIME ->    228.78904008865356       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   313.00776119402985     
+ -- WALLTIME ->    6.3896179199218750E-005  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1618.0729584593544     
+ -- WALLTIME ->    6.1801910400390625E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5518.1312862208015     
+ -- WALLTIME ->    3.6244153976440430E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   6111.4259920350423     
+ -- WALLTIME ->    327.25586509704590       seconds
+  
+===== THREADS: 4 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->   1.2052597701149426     
+ -- WALLTIME ->    1.6593933105468750E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   332.88126984126984     
+ -- WALLTIME ->    3.0040740966796875E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   2207.5284210526315     
+ -- WALLTIME ->    9.0599060058593750E-006  seconds
+  
+  mmm result
+ --MFLOPS-- ->   14488.096718480139     
+ -- WALLTIME ->    1.3804435729980469E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   6.8534379084967316     
+ -- WALLTIME ->    1.4591217041015625E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   679.56966947504861     
+ -- WALLTIME ->    3.6787986755371094E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   10034.220095693780     
+ -- WALLTIME ->    4.9829483032226562E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   18253.564278875445     
+ -- WALLTIME ->    1.3695955276489258E-002  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   11.699592747559276     
+ -- WALLTIME ->    1.7094612121582031E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1251.6574156968070     
+ -- WALLTIME ->    7.9894065856933594E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   15252.014545454545     
+ -- WALLTIME ->    1.3113021850585938E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   19293.470411003014     
+ -- WALLTIME ->   0.10366201400756836       seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   19.753394034536889     
+ -- WALLTIME ->    1.5187263488769531E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1388.8423841059603     
+ -- WALLTIME ->    1.6200542449951172E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   13677.078260869566     
+ -- WALLTIME ->    3.2901763916015625E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   14549.709381504226     
+ -- WALLTIME ->   0.46392679214477539       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   36.631475982532756     
+ -- WALLTIME ->    1.0919570922851562E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1781.0208067940553     
+ -- WALLTIME ->    2.2459030151367188E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8538.0234096692111     
+ -- WALLTIME ->    9.3698501586914062E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   12482.504295757959     
+ -- WALLTIME ->    1.2817940711975098       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   52.648167364016736     
+ -- WALLTIME ->    1.1396408081054688E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1701.6966145246361     
+ -- WALLTIME ->    5.2888393402099609E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   7649.1866261398172     
+ -- WALLTIME ->    2.3531913757324219E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11020.826214971210     
+ -- WALLTIME ->    4.8998141288757324       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   73.423264770240692     
+ -- WALLTIME ->    1.0895729064941406E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1553.0864151816709     
+ -- WALLTIME ->    1.0302066802978516E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8032.1800119688805     
+ -- WALLTIME ->    3.9839744567871094E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11020.648012263327     
+ -- WALLTIME ->    11.614562034606934       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   62.045917159763313     
+ -- WALLTIME ->    1.6117095947265625E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1596.4434700526781     
+ -- WALLTIME ->    1.5659809112548828E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   7864.2216972287843     
+ -- WALLTIME ->    6.3579082489013672E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11231.230329968697     
+ -- WALLTIME ->    22.259360074996948       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   109.17927982646421     
+ -- WALLTIME ->    1.0991096496582031E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1598.3544231441001     
+ -- WALLTIME ->    2.2523164749145508E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8382.7866204024976     
+ -- WALLTIME ->    8.5890293121337891E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11121.172229952372     
+ -- WALLTIME ->    38.844825983047485       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   122.84572384937239     
+ -- WALLTIME ->    1.1396408081054688E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1579.8848146610703     
+ -- WALLTIME ->    3.1014919281005859E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8397.0050050050049     
+ -- WALLTIME ->    1.1670827865600586E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   10937.745886328887     
+ -- WALLTIME ->    62.718590021133423       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   93.466384401114212     
+ -- WALLTIME ->    1.7118453979492188E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1606.4648437733772     
+ -- WALLTIME ->    3.9839029312133789E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8310.0520393158422     
+ -- WALLTIME ->    1.5403032302856445E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11579.930937682704     
+ -- WALLTIME ->    88.428852081298828       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   113.18961319340330     
+ -- WALLTIME ->    1.5902519226074219E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1595.6163065940259     
+ -- WALLTIME ->    5.0764083862304688E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8329.0705696318910     
+ -- WALLTIME ->    1.9449949264526367E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11373.893813893297     
+ -- WALLTIME ->    128.18829011917114       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   164.16062622309198     
+ -- WALLTIME ->    1.2183189392089844E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1573.3399353304374     
+ -- WALLTIME ->    6.3559055328369141E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8515.7481194229858     
+ -- WALLTIME ->    2.3485898971557617E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   11304.067143178698     
+ -- WALLTIME ->    176.92746996879578       seconds
+  
+===== THREADS: 8 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->  0.78766272300469475     
+ -- WALLTIME ->    2.5391578674316406E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   524.28800000000001     
+ -- WALLTIME ->    1.9073486328125000E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   1553.4459259259261     
+ -- WALLTIME ->    1.2874603271484375E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   19065.018181818181     
+ -- WALLTIME ->    1.0490417480468750E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   4.9228920187793426     
+ -- WALLTIME ->    2.0313262939453125E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1077.6731757451182     
+ -- WALLTIME ->    2.3198127746582031E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8322.0317460317456     
+ -- WALLTIME ->    6.0081481933593750E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   27379.393179800511     
+ -- WALLTIME ->    9.1309547424316406E-003  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   9.9983408820023829     
+ -- WALLTIME ->    2.0003318786621094E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   769.17366587199717     
+ -- WALLTIME ->    1.3000965118408203E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   24385.488372093023     
+ -- WALLTIME ->    8.2015991210937500E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   31512.426746806912     
+ -- WALLTIME ->    6.3467025756835938E-002  seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   12.658865191146880     
+ -- WALLTIME ->    2.3698806762695312E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1329.1808450704227     
+ -- WALLTIME ->    1.6927719116210938E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   22604.033532934132     
+ -- WALLTIME ->    1.9907951354980469E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   23726.818802745493     
+ -- WALLTIME ->   0.28448820114135742       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   19.065018181818182     
+ -- WALLTIME ->    2.0980834960937500E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1668.0469278186520     
+ -- WALLTIME ->    2.3980140686035156E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   11140.249667994689     
+ -- WALLTIME ->    7.1811676025390625E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   21064.440513213918     
+ -- WALLTIME ->   0.75957393646240234       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   29.399327102803738     
+ -- WALLTIME ->    2.0408630371093750E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1297.3857574924389     
+ -- WALLTIME ->    6.9370269775390625E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8657.9669724770647     
+ -- WALLTIME ->    2.0790100097656250E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20268.969370279756     
+ -- WALLTIME ->    2.6641709804534912       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   38.657179723502303     
+ -- WALLTIME ->    2.0694732666015625E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1290.1333025741585     
+ -- WALLTIME ->    1.2401819229125977E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8623.0470928364921     
+ -- WALLTIME ->    3.7109851837158203E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20435.783949667311     
+ -- WALLTIME ->    6.2635228633880615       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   31.347563527653215     
+ -- WALLTIME ->    3.1900405883789062E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1219.9837114601512     
+ -- WALLTIME ->    2.0492076873779297E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8572.0498671571640     
+ -- WALLTIME ->    5.8329105377197266E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20784.671209838070     
+ -- WALLTIME ->    12.028095006942749       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   59.705395017793599     
+ -- WALLTIME ->    2.0098686218261719E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1168.2213350663819     
+ -- WALLTIME ->    3.0816078186035156E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8738.8919177011885     
+ -- WALLTIME ->    8.2390308380126953E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20609.612110358794     
+ -- WALLTIME ->    20.961093187332153       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   59.373362992922139     
+ -- WALLTIME ->    2.3579597473144531E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1207.9658630053250     
+ -- WALLTIME ->    4.0564060211181641E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8730.5238206495196     
+ -- WALLTIME ->    1.1224985122680664E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20514.255890513123     
+ -- WALLTIME ->    33.440160036087036       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   77.672296296296295     
+ -- WALLTIME ->    2.0599365234375000E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1205.0649859038590     
+ -- WALLTIME ->    5.3109169006347656E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8773.8341559078272     
+ -- WALLTIME ->    1.4588832855224609E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20803.443615641427     
+ -- WALLTIME ->    49.222620010375977       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   62.291643564356441     
+ -- WALLTIME ->    2.8896331787109375E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1170.0318011344264     
+ -- WALLTIME ->    6.9228887557983398E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8824.9528930450015     
+ -- WALLTIME ->    1.8357038497924805E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   20789.928035067282     
+ -- WALLTIME ->    70.130112886428833       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   90.884160346695552     
+ -- WALLTIME ->    2.2006034851074219E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1199.3148902709272     
+ -- WALLTIME ->    8.3380937576293945E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8790.8786049631126     
+ -- WALLTIME ->    2.2750854492187500E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   21015.276379794086     
+ -- WALLTIME ->    95.168864965438843       seconds
+  
+===== THREADS: 10 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->  0.71453219761499143     
+ -- WALLTIME ->    2.7990341186523438E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   530.92455696202535     
+ -- WALLTIME ->    1.8835067749023438E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   1823.6104347826088     
+ -- WALLTIME ->    1.0967254638671875E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   21024.080200501256     
+ -- WALLTIME ->    9.5129013061523438E-005  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   4.0485559845559846     
+ -- WALLTIME ->    2.4700164794921875E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1147.2385120350111     
+ -- WALLTIME ->    2.1791458129882812E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   6260.1552238805971     
+ -- WALLTIME ->    7.9870223999023438E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   39988.406681412554     
+ -- WALLTIME ->    6.2518119812011719E-003  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   8.7290405827263253     
+ -- WALLTIME ->    2.2912025451660156E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   904.13968527699933     
+ -- WALLTIME ->    1.1060237884521484E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   25653.235474006116     
+ -- WALLTIME ->    7.7962875366210938E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   39108.276572632720     
+ -- WALLTIME ->    5.1140069961547852E-002  seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   10.828667814113597     
+ -- WALLTIME ->    2.7704238891601562E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   2257.1595312126283     
+ -- WALLTIME ->    9.9682807922363281E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   24166.924455825862     
+ -- WALLTIME ->    1.8620491027832031E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   29215.870850433468     
+ -- WALLTIME ->   0.23103880882263184       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   15.210531278331821     
+ -- WALLTIME ->    2.6297569274902344E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1682.9387100010031     
+ -- WALLTIME ->    2.3767948150634766E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   11495.180541281261     
+ -- WALLTIME ->    6.9594383239746094E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   24915.596662716340     
+ -- WALLTIME ->   0.64216804504394531       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   21.978885589519649     
+ -- WALLTIME ->    2.7298927307128906E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1334.5377925475500     
+ -- WALLTIME ->    6.7439079284667969E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8853.9312771197383     
+ -- WALLTIME ->    2.0329952239990234E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   24385.716791274852     
+ -- WALLTIME ->    2.2144110202789307       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   26.651653693407464     
+ -- WALLTIME ->    3.0016899108886719E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1272.7850396388878     
+ -- WALLTIME ->    1.2570858001708984E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8714.8709824037396     
+ -- WALLTIME ->    3.6718845367431641E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   24630.693323454219     
+ -- WALLTIME ->    5.1967680454254150       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   35.454809805579039     
+ -- WALLTIME ->    2.8204917907714844E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1166.0431910682116     
+ -- WALLTIME ->    2.1440029144287109E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8776.5306549487341     
+ -- WALLTIME ->    5.6970119476318359E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   24451.293056690520     
+ -- WALLTIME ->    10.224408149719238       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   44.111873794916740     
+ -- WALLTIME ->    2.7203559875488281E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1198.8483048828900     
+ -- WALLTIME ->    3.0028820037841797E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8793.3461840840937     
+ -- WALLTIME ->    8.1880092620849609E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   21906.130345694903     
+ -- WALLTIME ->    19.720507144927979       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   47.934902857142859     
+ -- WALLTIME ->    2.9206275939941406E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1201.3637219198820     
+ -- WALLTIME ->    4.0786981582641602E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8799.4903236855625     
+ -- WALLTIME ->    1.1137008666992188E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   23245.318239152199     
+ -- WALLTIME ->    29.511318922042847       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   59.972175156389632     
+ -- WALLTIME ->    2.6679039001464844E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1156.0079755737288     
+ -- WALLTIME ->    5.5362939834594727E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8698.6327062978999     
+ -- WALLTIME ->    1.4714956283569336E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   23838.503217883870     
+ -- WALLTIME ->    42.955717086791992       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   62.967032527105921     
+ -- WALLTIME ->    2.8586387634277344E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1140.4719949780626     
+ -- WALLTIME ->    7.1023225784301758E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8736.4480617164900     
+ -- WALLTIME ->    1.8543004989624023E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   24102.093383113963     
+ -- WALLTIME ->    60.492670774459839       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   80.659692307692310     
+ -- WALLTIME ->    2.4795532226562500E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1149.4392984379283     
+ -- WALLTIME ->    8.6998939514160156E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8719.6041744626000     
+ -- WALLTIME ->    2.2936820983886719E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   23440.525559073580     
+ -- WALLTIME ->    85.322319030761719       seconds
+  
+===== THREADS: 16 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->  0.44834890432923574     
+ -- WALLTIME ->    4.4608116149902344E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   270.60025806451614     
+ -- WALLTIME ->    3.6954879760742188E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   1421.7979661016948     
+ -- WALLTIME ->    1.4066696166992188E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   15505.744916820702     
+ -- WALLTIME ->    1.2898445129394531E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   2.4877247924080663     
+ -- WALLTIME ->    4.0197372436523438E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1111.9575821845174     
+ -- WALLTIME ->    2.2482872009277344E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   5890.8764044943819     
+ -- WALLTIME ->    8.4877014160156250E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   41714.444842264391     
+ -- WALLTIME ->    5.9931278228759766E-003  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   5.3328722186904010     
+ -- WALLTIME ->    3.7503242492675781E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   571.74263904034899     
+ -- WALLTIME ->    1.7490386962890625E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   21509.251282051282     
+ -- WALLTIME ->    9.2983245849609375E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   52677.371346039123     
+ -- WALLTIME ->    3.7966966629028320E-002  seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   7.4631743772241999     
+ -- WALLTIME ->    4.0197372436523438E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1216.9160541586073     
+ -- WALLTIME ->    1.8489360809326172E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   24166.924455825862     
+ -- WALLTIME ->    1.8620491027832031E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   38666.207778160184     
+ -- WALLTIME ->   0.17457103729248047       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   9.2182505494505502     
+ -- WALLTIME ->    4.3392181396484375E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1156.7302813017100     
+ -- WALLTIME ->    3.4580230712890625E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   11679.231465367213     
+ -- WALLTIME ->    6.8497657775878906E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   34925.956863032865     
+ -- WALLTIME ->   0.45811200141906738       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   14.496442396313364     
+ -- WALLTIME ->    4.1389465332031250E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1177.4035744362309     
+ -- WALLTIME ->    7.6439380645751953E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8595.8638278492544     
+ -- WALLTIME ->    2.0940303802490234E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   30565.114037333333     
+ -- WALLTIME ->    1.7667200565338135       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   19.284156321839081     
+ -- WALLTIME ->    4.1484832763671875E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1081.1629263263037     
+ -- WALLTIME ->    1.4798879623413086E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8458.9227957395851     
+ -- WALLTIME ->    3.7829875946044922E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   29665.778689588962     
+ -- WALLTIME ->    4.3147358894348145       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   24.216535796766742     
+ -- WALLTIME ->    4.1294097900390625E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1057.6293068667796     
+ -- WALLTIME ->    2.3637771606445312E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8703.3200531208495     
+ -- WALLTIME ->    5.7449340820312500E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   29581.636238768257     
+ -- WALLTIME ->    8.4511890411376953       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   28.646356289129198     
+ -- WALLTIME ->    4.1890144348144531E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1076.4209160577439     
+ -- WALLTIME ->    3.3444166183471680E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8726.2660155459889     
+ -- WALLTIME ->    8.2509517669677734E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   27929.280447356967     
+ -- WALLTIME ->    15.467638015747070       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   31.672198489751885     
+ -- WALLTIME ->    4.4202804565429688E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1052.7925415567452     
+ -- WALLTIME ->    4.6542882919311523E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8705.5615045747199     
+ -- WALLTIME ->    1.1257171630859375E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   27126.457181139820     
+ -- WALLTIME ->    25.288964033126831       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   39.313921499707085     
+ -- WALLTIME ->    4.0698051452636719E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1061.7819125371811     
+ -- WALLTIME ->    6.0276031494140625E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8673.1972859450725     
+ -- WALLTIME ->    1.4758110046386719E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   29724.772231073817     
+ -- WALLTIME ->    34.449380874633789       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   43.464290155440409     
+ -- WALLTIME ->    4.1413307189941406E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1070.2653906008809     
+ -- WALLTIME ->    7.5682163238525391E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8741.7307533964595     
+ -- WALLTIME ->    1.8531799316406250E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   26923.117008966823     
+ -- WALLTIME ->    54.154205083847046       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   48.913166180758012     
+ -- WALLTIME ->    4.0888786315917969E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1087.9855568323603     
+ -- WALLTIME ->    9.1912984848022461E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8691.1468208332044     
+ -- WALLTIME ->    2.3011922836303711E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   27056.134348831576     
+ -- WALLTIME ->    73.920389890670776       seconds
+  
+===== THREADS: 20 =====
+--- Size: 100 ---
+ dot result
+ --MFLOPS-- ->  0.39125970149253736     
+ -- WALLTIME ->    5.1116943359375000E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   263.79270440251571     
+ -- WALLTIME ->    3.7908554077148438E-005  seconds
+  
+  mvv result
+ --MFLOPS-- ->   1331.5250793650794     
+ -- WALLTIME ->    1.5020370483398438E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   14820.862190812721     
+ -- WALLTIME ->    1.3494491577148438E-004  seconds
+  
+--- Size: 500 ---
+ dot result
+ --MFLOPS-- ->   2.0784459861248763     
+ -- WALLTIME ->    4.8112869262695312E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   972.70500927643786     
+ -- WALLTIME ->    2.5701522827148438E-004  seconds
+  
+  mvv result
+ --MFLOPS-- ->   6657.6253968253968     
+ -- WALLTIME ->    7.5101852416992188E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   47829.950280527300     
+ -- WALLTIME ->    5.2268505096435547E-003  seconds
+  
+--- Size: 1000 ---
+ dot result
+ --MFLOPS-- ->   4.0642480620155039     
+ -- WALLTIME ->    4.9209594726562500E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   527.71816809260190     
+ -- WALLTIME ->    1.8949508666992188E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   22733.355013550135     
+ -- WALLTIME ->    8.7976455688476562E-005  seconds
+  
+  mmm result
+ --MFLOPS-- ->   60479.358624965753     
+ -- WALLTIME ->    3.3069133758544922E-002  seconds
+  
+--- Size: 1500 ---
+ dot result
+ --MFLOPS-- ->   5.5553695364238411     
+ -- WALLTIME ->    5.4001808166503906E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   702.06695432227355     
+ -- WALLTIME ->    3.2048225402832031E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   24867.415019762844     
+ -- WALLTIME ->    1.8095970153808594E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   44357.396672202551     
+ -- WALLTIME ->   0.15217304229736328       seconds
+  
+--- Size: 2000 ---
+ dot result
+ --MFLOPS-- ->   7.9212540132200191     
+ -- WALLTIME ->    5.0497055053710938E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1166.8671581582973     
+ -- WALLTIME ->    3.4279823303222656E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   10581.656259854935     
+ -- WALLTIME ->    7.5602531433105469E-004  seconds
+  
+  mmm result
+ --MFLOPS-- ->   42086.898279180525     
+ -- WALLTIME ->   0.38016581535339355       seconds
+  
+--- Size: 3000 ---
+ dot result
+ --MFLOPS-- ->   11.259876510067114     
+ -- WALLTIME ->    5.3286552429199219E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1035.5737956765061     
+ -- WALLTIME ->    8.6908340454101562E-003  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8968.5759087669285     
+ -- WALLTIME ->    2.0070075988769531E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36562.750075791548     
+ -- WALLTIME ->    1.4769129753112793       seconds
+  
+--- Size: 4000 ---
+ dot result
+ --MFLOPS-- ->   15.413152044097382     
+ -- WALLTIME ->    5.1903724670410156E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1047.8065170890127     
+ -- WALLTIME ->    1.5269994735717773E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8571.8308851705206     
+ -- WALLTIME ->    3.7331581115722656E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   38823.785423651985     
+ -- WALLTIME ->    3.2969479560852051       seconds
+  
+--- Size: 5000 ---
+ dot result
+ --MFLOPS-- ->   20.078046912398275     
+ -- WALLTIME ->    4.9805641174316406E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   985.57786299721795     
+ -- WALLTIME ->    2.5365829467773438E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8691.0567757977624     
+ -- WALLTIME ->    5.7530403137207031E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36521.414155732949     
+ -- WALLTIME ->    6.8452990055084229       seconds
+  
+--- Size: 6000 ---
+ dot result
+ --MFLOPS-- ->   24.338321083172147     
+ -- WALLTIME ->    4.9304962158203125E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   990.78047244094489     
+ -- WALLTIME ->    3.6334991455078125E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8733.5845913586672     
+ -- WALLTIME ->    8.2440376281738281E-003  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36830.637970085816     
+ -- WALLTIME ->    11.729365110397339       seconds
+  
+--- Size: 7000 ---
+ dot result
+ --MFLOPS-- ->   27.776847682119204     
+ -- WALLTIME ->    5.0401687622070312E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   961.23594423059831     
+ -- WALLTIME ->    5.0976037979125977E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8750.7832751426376     
+ -- WALLTIME ->    1.1198997497558594E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36762.790853611652     
+ -- WALLTIME ->    18.660171985626221       seconds
+  
+--- Size: 8000 ---
+ dot result
+ --MFLOPS-- ->   30.311140018066848     
+ -- WALLTIME ->    5.2785873413085938E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   1012.4023881092376     
+ -- WALLTIME ->    6.3215970993041992E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8544.1380122543178     
+ -- WALLTIME ->    1.4981031417846680E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   39517.994713418149     
+ -- WALLTIME ->    25.912245988845825       seconds
+  
+--- Size: 9000 ---
+ dot result
+ --MFLOPS-- ->   37.117734513274335     
+ -- WALLTIME ->    4.8494338989257812E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   993.91380818503353     
+ -- WALLTIME ->    8.1496000289916992E-002  seconds
+  
+  mvv result
+ --MFLOPS-- ->   8693.7478152948552     
+ -- WALLTIME ->    1.8634080886840820E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36977.799776205313     
+ -- WALLTIME ->    39.429063081741333       seconds
+  
+--- Size: 10000 ---
+ dot result
+ --MFLOPS-- ->   40.820476885644773     
+ -- WALLTIME ->    4.8995018005371094E-004  seconds
+  
+ vvm result
+ --MFLOPS-- ->   977.85051674978035     
+ -- WALLTIME ->   0.10226511955261230       seconds
+  
+  mvv result
+ --MFLOPS-- ->   8666.2754659283455     
+ -- WALLTIME ->    2.3077964782714844E-002  seconds
+  
+  mmm result
+ --MFLOPS-- ->   36475.650411153147     
+ -- WALLTIME ->    54.831099033355713       seconds
+  
